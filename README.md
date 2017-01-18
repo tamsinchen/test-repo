@@ -1,3 +1,3 @@
 # test-repo
 
-Hello! I am learning how to use GitHub.
+Hello! I am learning how to use GitHub. Slowly.
